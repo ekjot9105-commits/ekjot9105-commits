@@ -161,7 +161,7 @@ I use Data Structures and Algorithms to strengthen my problem-solving skills, pr
 <div align="center">
 
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="80%" alt="LeetCode statistics and submission heatmap"/>
+<img src="https://leetcard.jacoblin.cool/k5Ql5o8dGA?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="80%" alt="LeetCode statistics and submission heatmap"/>
 </a>
 
 </div>
